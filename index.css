@@ -4,5 +4,8 @@ h1 {
 }
 h3 {
     color: crimson;
-    
+    text-decoration: underline;
+}
+body {
+    background-color: cornsilk;
 }
