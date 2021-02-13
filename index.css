@@ -4,5 +4,8 @@ h1 {
 }
 h3 {
     color: crimson;
-    
+    text-decoration: underline;
+}
+p {
+    font-family: sans-serif;
 }
