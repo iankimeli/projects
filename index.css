@@ -9,3 +9,8 @@ h3 {
 body {
     background-color: cornsilk;
 }
+p {
+    font-family: sans-serif;
+}
+footer { width:100%; background-color:#263238; min-height:150px;
+}
